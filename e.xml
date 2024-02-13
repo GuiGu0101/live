@@ -36108,6 +36108,9 @@
 	<programme channel="华数亚洲影院" start="20240213080700 +0800" stop="20240213093900 +0800">
 		<title lang="zh">啊朋友还钱</title>
 	</programme>
+	<programme channel="华数亚洲影院" start="20240213093900 +0800" stop="20240213111600 +0800">
+		<title lang="zh">不二神探</title>
+	</programme>
 	<channel id="华数探索纪录">
 		<display-name lang="zh">华数探索纪录</display-name>
 	</channel>
@@ -36243,6 +36246,9 @@
 	<programme channel="华数漫游世界" start="20240213085400 +0800" stop="20240213092400 +0800">
 		<title lang="zh">马可波罗-从历史走进现代2</title>
 	</programme>
+	<programme channel="华数漫游世界" start="20240213092400 +0800" stop="20240213095300 +0800">
+		<title lang="zh">马可波罗-从历史走进现代3</title>
+	</programme>
 	<channel id="华数电子竞技">
 		<display-name lang="zh">华数电子竞技</display-name>
 	</channel>
@@ -36356,6 +36362,9 @@
 	</programme>
 	<programme channel="华数精品剧场" start="20240213083900 +0800" stop="20240213092400 +0800">
 		<title lang="zh">温暖的村庄_8</title>
+	</programme>
+	<programme channel="华数精品剧场" start="20240213092400 +0800" stop="20240213100900 +0800">
+		<title lang="zh">温暖的村庄_9</title>
 	</programme>
 	<channel id="华数风尚音乐">
 		<display-name lang="zh">华数风尚音乐</display-name>
@@ -70764,6 +70773,12 @@
 	<programme channel="爱动漫" start="20240213090800 +0800" stop="20240213092300 +0800">
 		<title lang="zh">十二生肖之龙行天下_24</title>
 	</programme>
+	<programme channel="爱动漫" start="20240213092300 +0800" stop="20240213093800 +0800">
+		<title lang="zh">十二生肖之龙行天下_25</title>
+	</programme>
+	<programme channel="爱动漫" start="20240213093800 +0800" stop="20240213100100 +0800">
+		<title lang="zh">火力少年王之传奇再现_30</title>
+	</programme>
 	<channel id="爱历史">
 		<display-name lang="zh">爱历史</display-name>
 	</channel>
@@ -70808,6 +70823,9 @@
 	</programme>
 	<programme channel="爱历史" start="20240213084800 +0800" stop="20240213093400 +0800">
 		<title lang="zh">深宫谍影_27</title>
+	</programme>
+	<programme channel="爱历史" start="20240213093400 +0800" stop="20240213102100 +0800">
+		<title lang="zh">深宫谍影_28</title>
 	</programme>
 	<channel id="爱喜剧">
 		<display-name lang="zh">爱喜剧</display-name>
@@ -71367,6 +71385,12 @@
 	<programme channel="爱幼教" start="20240213085400 +0800" stop="20240213091600 +0800">
 		<title lang="zh">奶油豆豆咖啡馆1_24</title>
 	</programme>
+	<programme channel="爱幼教" start="20240213091600 +0800" stop="20240213093800 +0800">
+		<title lang="zh">奶油豆豆咖啡馆1_25</title>
+	</programme>
+	<programme channel="爱幼教" start="20240213093800 +0800" stop="20240213095900 +0800">
+		<title lang="zh">奶油豆豆咖啡馆1_26</title>
+	</programme>
 	<channel id="爱悬疑">
 		<display-name lang="zh">爱悬疑</display-name>
 	</channel>
@@ -71409,6 +71433,9 @@
 	<programme channel="爱悬疑" start="20240213084600 +0800" stop="20240213093200 +0800">
 		<title lang="zh">少林问道_31</title>
 	</programme>
+	<programme channel="爱悬疑" start="20240213093200 +0800" stop="20240213101800 +0800">
+		<title lang="zh">把爱带回家_24</title>
+	</programme>
 	<channel id="爱旅行">
 		<display-name lang="zh">爱旅行</display-name>
 	</channel>
@@ -71450,6 +71477,9 @@
 	</programme>
 	<programme channel="爱旅行" start="20240213084400 +0800" stop="20240213092900 +0800">
 		<title lang="zh">鼓楼外_18</title>
+	</programme>
+	<programme channel="爱旅行" start="20240213092900 +0800" stop="20240213101400 +0800">
+		<title lang="zh">鼓楼外_19</title>
 	</programme>
 	<channel id="爱浪漫">
 		<display-name lang="zh">爱浪漫</display-name>
@@ -71544,6 +71574,12 @@
 	<programme channel="爱科学" start="20240213085800 +0800" stop="20240213092800 +0800">
 		<title lang="zh">中国城轨第2集:穿越-与科技共进</title>
 	</programme>
+	<programme channel="爱科学" start="20240213092800 +0800" stop="20240213093700 +0800">
+		<title lang="zh">乡村记忆:日照?天成寨</title>
+	</programme>
+	<programme channel="爱科学" start="20240213093700 +0800" stop="20240213094600 +0800">
+		<title lang="zh">乡村记忆:泰安?南堂子村</title>
+	</programme>
 	<channel id="爱科幻">
 		<display-name lang="zh">爱科幻</display-name>
 	</channel>
@@ -71564,6 +71600,9 @@
 	</programme>
 	<programme channel="爱科幻" start="20240213072900 +0800" stop="20240213093700 +0800">
 		<title lang="zh">X战警:逆转未来</title>
+	</programme>
+	<programme channel="爱科幻" start="20240213093700 +0800" stop="20240213114000 +0800">
+		<title lang="zh">加勒比海盗5(普通话版)</title>
 	</programme>
 	<channel id="爱谍战">
 		<display-name lang="zh">爱谍战</display-name>
@@ -71606,6 +71645,9 @@
 	</programme>
 	<programme channel="爱谍战" start="20240213083400 +0800" stop="20240213091700 +0800">
 		<title lang="zh">战火中的兄弟_23</title>
+	</programme>
+	<programme channel="爱谍战" start="20240213091700 +0800" stop="20240213100200 +0800">
+		<title lang="zh">我的燃情岁月_01</title>
 	</programme>
 	<channel id="爱赛车">
 		<display-name lang="zh">爱赛车</display-name>
@@ -76835,6 +76877,9 @@
 	</programme>
 	<programme channel="纯享4K" start="20240213090200 +0800" stop="20240213094100 +0800">
 		<title lang="zh">探索b7发现4K 守望长城 第3集 长城峥嵘铸脊梁</title>
+	</programme>
+	<programme channel="纯享4K" start="20240213094100 +0800" stop="20240213103000 +0800">
+		<title lang="zh">大数据时代4K 第1集 数据时代</title>
 	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
@@ -90864,6 +90909,12 @@
 	<programme channel="黑莓动画" start="20240213090100 +0800" stop="20240213092400 +0800">
 		<title lang="zh">26_哪吒传奇 4K修复版</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240213092400 +0800" stop="20240213093500 +0800">
+		<title lang="zh">11_冰淇淋</title>
+	</programme>
+	<programme channel="黑莓动画" start="20240213093500 +0800" stop="20240213094600 +0800">
+		<title lang="zh">12_劫机</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -92505,6 +92556,9 @@
 	<programme channel="newtv古装剧场" start="20240213085700 +0800" stop="20240213094600 +0800">
 		<title lang="zh">生活服务</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20240213094600 +0800" stop="20240213103100 +0800">
+		<title lang="zh">53_独孤天下</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -92543,6 +92597,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20240213083800 +0800" stop="20240213092100 +0800">
 		<title lang="zh">45_狐影</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20240213092100 +0800" stop="20240213100500 +0800">
+		<title lang="zh">46_狐影</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -92583,6 +92640,9 @@
 	<programme channel="newtv家庭剧场" start="20240213085500 +0800" stop="20240213094200 +0800">
 		<title lang="zh">15_咖啡女人</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20240213094200 +0800" stop="20240213103000 +0800">
+		<title lang="zh">生活服务</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -92615,6 +92675,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20240213084800 +0800" stop="20240213093500 +0800">
 		<title lang="zh">31_星汉灿烂b7月升沧海</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20240213093500 +0800" stop="20240213102000 +0800">
+		<title lang="zh">32_星汉灿烂b7月升沧海</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -92700,6 +92763,9 @@
 	<programme channel="newtv怡伴健康" start="20240213084400 +0800" stop="20240213092800 +0800">
 		<title lang="zh">14_故乡，别来无恙</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20240213092800 +0800" stop="20240213101000 +0800">
+		<title lang="zh">15_故乡，别来无恙</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -92732,6 +92798,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20240213090000 +0800" stop="20240213094600 +0800">
 		<title lang="zh">15_暖暖的幸福</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20240213094600 +0800" stop="20240213103100 +0800">
+		<title lang="zh">16_暖暖的幸福</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -92835,6 +92904,9 @@
 	<programme channel="newtv炫舞未来" start="20240213085800 +0800" stop="20240213093600 +0800">
 		<title lang="zh">生活服务</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20240213093600 +0800" stop="20240213102600 +0800">
+		<title lang="zh">18_慈海鹊桥会</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -92871,6 +92943,9 @@
 	<programme channel="newtv精品综合" start="20240213090000 +0800" stop="20240213094500 +0800">
 		<title lang="zh">11_梦华录</title>
 	</programme>
+	<programme channel="newtv精品综合" start="20240213094500 +0800" stop="20240213103400 +0800">
+		<title lang="zh">生活服务</title>
+	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
 	</channel>
@@ -92891,6 +92966,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20240213074800 +0800" stop="20240213091800 +0800">
 		<title lang="zh">命回迁转</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20240213091800 +0800" stop="20240213104500 +0800">
+		<title lang="zh">凶手还未睡</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
@@ -92930,6 +93008,9 @@
 	</programme>
 	<programme channel="newtv精品体育" start="20240213074400 +0800" stop="20240213093100 +0800">
 		<title lang="zh">23-24赛季CBA常规赛：北控VS辽宁</title>
+	</programme>
+	<programme channel="newtv精品体育" start="20240213093100 +0800" stop="20240213112000 +0800">
+		<title lang="zh">23-24赛季CBA常规赛：吉林VS山西</title>
 	</programme>
 	<channel id="newtv武搏世界">
 		<display-name lang="zh">NEWTV武搏世界</display-name>
