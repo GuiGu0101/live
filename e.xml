@@ -66,6 +66,9 @@
 	<programme channel="4K综艺" start="20240410075700 +0800" stop="20240410093900 +0800">
 		<title lang="zh">花儿与少年第一季20140606</title>
 	</programme>
+	<programme channel="4K综艺" start="20240410093900 +0800" stop="20240410100400 +0800">
+		<title lang="zh">少年说听你说20180711</title>
+	</programme>
 	<channel id="ABCAUSTRALIA">
 		<display-name lang="zh">ABCAUSTRALIA</display-name>
 	</channel>
@@ -22728,7 +22731,67 @@
 	<programme channel="NHKWORLDPREMIUM" start="20240410165900 +0800" stop="20240410170000 +0800">
 		<title lang="zh">1-Minute Anime: Songs For Sdgs</title>
 	</programme>
-	<programme channel="NHKWOR"20240410011000 +0800" stop="20240410013000 +0800">
+	<programme channel="NHKWORLDPREMIUM" start="20240410170000 +0800" stop="20240410171000 +0800">
+		<title lang="zh">News</title>
+	</programme>
+	<programme channel="NHKWORLDPREMIUM" start="20240410171000 +0800" stop="20240410172500 +0800">
+		<title lang="zh">Kids Discovery</title>
+	</programme>
+	<programme channel="NHKWORLDPREMIUM" start="20240410172500 +0800" stop="20240410175600 +0800">
+		<title lang="zh">Whiz-Kids TV</title>
+	</programme>
+	<programme channel="NHKWORLDPREMIUM" start="20240410175600 +0800" stop="20240410180000 +0800">
+		<title lang="zh">World Weather</title>
+	</programme>
+	<programme channel="NHKWORLDPREMIUM" start="20240410180000 +0800" stop="20240410183000 +0800">
+		<title lang="zh">NHK News 7</title>
+	</programme>
+	<programme channel="NHKWORLDPREMIUM" start="20240410183000 +0800" stop="20240410185700 +0800">
+		<title lang="zh">Todays Close-Up</title>
+	</programme>
+	<programme channel="NHKWORLDPREMIUM" start="20240410185700 +0800" stop="20240410194300 +0800">
+		<title lang="zh">I Want To See Xiang Xiang!</title>
+	</programme>
+	<programme channel="NHKWORLDPREMIUM" start="20240410194300 +0800" stop="20240410194500 +0800">
+		<title lang="zh">World Weather</title>
+	</programme>
+	<programme channel="NHKWORLDPREMIUM" start="20240410194500 +0800" stop="20240410200000 +0800">
+		<title lang="zh">NHK News 845</title>
+	</programme>
+	<programme channel="NHKWORLDPREMIUM" start="20240410200000 +0800" stop="20240410210000 +0800">
+		<title lang="zh">News Watch 9</title>
+	</programme>
+	<programme channel="NHKWORLDPREMIUM" start="20240410210000 +0800" stop="20240410214500 +0800">
+		<title lang="zh">History Detective Sakuradamongai Incident</title>
+	</programme>
+	<programme channel="NHKWORLDPREMIUM" start="20240410214500 +0800" stop="20240410220000 +0800">
+		<title lang="zh">Night Drama Serial A Lovestory In Virtual Reality 第7集</title>
+	</programme>
+	<programme channel="NHKWORLDPREMIUM" start="20240410220000 +0800" stop="20240410223000 +0800">
+		<title lang="zh">Uplifting Architectures</title>
+	</programme>
+	<programme channel="NHKWORLDPREMIUM" start="20240410223000 +0800" stop="20240410224000 +0800">
+		<title lang="zh">News Commentary</title>
+	</programme>
+	<programme channel="NHKWORLDPREMIUM" start="20240410224000 +0800" stop="20240410224500 +0800">
+		<title lang="zh">News &amp; Weather</title>
+	</programme>
+	<programme channel="NHKWORLDPREMIUM" start="20240410224500 +0800" stop="20240410232900 +0800">
+		<title lang="zh">International News Report 2024</title>
+	</programme>
+	<programme channel="NHKWORLDPREMIUM" start="20240410232900 +0800" stop="20240410233000 +0800">
+		<title lang="zh">World Weather</title>
+	</programme>
+	<programme channel="NHKWORLDPREMIUM" start="20240410001500 +0800" stop="20240410004000 +0800">
+		<title lang="zh">Todays Cooking</title>
+	</programme>
+	<programme channel="NHKWORLDPREMIUM" start="20240410004000 +0800" stop="20240410010500 +0800">
+		<title lang="zh">Tanka Poetry</title>
+	</programme>
+	<programme channel="NHKWORLDPREMIUM" start="20240410010500 +0800" stop="20240410011000 +0800">
+		<title lang="zh">Worlds Magnificent Sight Journey</title>
+	</programme>
+	<programme channel="NHKWORLDPREMIUM" start="20240410011000 +0800" stop="20240410013000 +0800">
 		<title lang="zh">German In A Happy Mood</title>
 	</programme>
 	<programme channel="NHKWORLDPREMIUM" start="20240410013000 +0800" stop="20240410014000 +0800">
@@ -28876,66 +28939,6 @@
 		<title lang="zh">K-STAGE PAN(普)</title>
 	</programme>
 	<programme channel="TRAVELCHANNEL" start="20240410130000 +0800" stop="20240410133000 +0800">
-		<title lang="zh">THE DAILY REPORT(普)</title>
-	</programme>
-	<programme channel="TRAVELCHANNEL" start="20240410133000 +0800" stop="20240410140000 +0800">
-		<title lang="zh">ISSUES   INSIDERS(普)</title>
-	</programme>
-	<programme channel="TRAVELCHANNEL" start="20240410140000 +0800" stop="20240410150000 +0800">
-		<title lang="zh">RADIO CLOCK [L](普)</title>
-	</programme>
-	<programme channel="TRAVELCHANNEL" start="20240410150000 +0800" stop="20240410150500 +0800">
-		<title lang="zh">AI HEADLINE NEWS(普)</title>
-	</programme>
-	<programme channel="TRAVELCHANNEL" start="20240410150500 +0800" stop="20240410153000 +0800">
-		<title lang="zh">KOREA TRAVELOGUE 4(普)</title>
-	</programme>
-	<programme channel="TRAVELCHANNEL" start="20240410153000 +0800" stop="20240410154000 +0800">
-		<title lang="zh">1DAY 1KOREA: K-FOOD(普)</title>
-	</programme>
-	<programme channel="TRAVELCHANNEL" start="20240410154000 +0800" stop="20240410160000 +0800">
-		<title lang="zh">K-CHAT: CONVERSING IN KOREAN(普)</title>
-	</programme>
-	<programme channel="TRAVELCHANNEL" start="20240410160000 +0800" stop="20240410163000 +0800">
-		<title lang="zh">THE GLOBALISTS(普)</title>
-	</programme>
-	<programme channel="TRAVELCHANNEL" start="20240410163000 +0800" stop="20240410170000 +0800">
-		<title lang="zh">PREMIUM COLLECTION(普)</title>
-	</programme>
-	<programme channel="TRAVELCHANNEL" start="20240410170000 +0800" stop="20240410173000 +0800">
-		<title lang="zh">NEWSCENTER(普)</title>
-	</programme>
-	<programme channel="TRAVELCHANNEL" start="20240410173000 +0800" stop="20240410180000 +0800">
-		<title lang="zh">WITHIN THE FRAME [L](普)</title>
-	</programme>
-	<programme channel="TRAVELCHANNEL" start="20240410180000 +0800" stop="20240410183000 +0800">
-		<title lang="zh">IM LIVE(普)</title>
-	</programme>
-	<programme channel="TRAVELCHANNEL" start="20240410183000 +0800" stop="20240410190000 +0800">
-		<title lang="zh">K-STAGE PAN(普)</title>
-	</programme>
-	<programme channel="TRAVELCHANNEL" start="20240410190000 +0800" stop="20240410193000 +0800">
-		<title lang="zh">TRAVEL AGENCY 2(普)</title>
-	</programme>
-	<programme channel="TRAVELCHANNEL" start="20240410193000 +0800" stop="20240410194000 +0800">
-		<title lang="zh">1DAY 1KOREA: K-FOOD(普)</title>
-	</programme>
-	<programme channel="TRAVELCHANNEL" start="20240410194000 +0800" stop="20240410200000 +0800">
-		<title lang="zh">K-CHAT: CONVERSING IN KOREAN(普)</title>
-	</programme>
-	<programme channel="TRAVELCHANNEL" start="20240410200000 +0800" stop="20240410203000 +0800">
-		<title lang="zh">ARIRANG NEWS 21:00(普)</title>
-	</programme>
-	<programme channel="TRAVELCHANNEL" start="20240410203000 +0800" stop="20240410210000 +0800">
-		<title lang="zh">ISSUES   INSIDERS(普)</title>
-	</programme>
-	<programme channel="TRAVELCHANNEL" start="20240410210000 +0800" stop="20240410210500 +0800">
-		<title lang="zh">AI HEADLINE NEWS(普)</title>
-	</programme>
-	<programme channel="TRAVELCHANNEL" start="20240410210500 +0800" stop="20240410213000 +0800">
-		<title lang="zh">KOREA TRAVELOGUE 4(普)</title>
-	</programme>
-	<programme channel="TRAVELCHANNEL" start=rt="20240410130000 +0800" stop="20240410133000 +0800">
 		<title lang="zh">THE DAILY REPORT(普)</title>
 	</programme>
 	<programme channel="TRAVELCHANNEL" start="20240410133000 +0800" stop="20240410140000 +0800">
@@ -53789,6 +53792,9 @@
 	</programme>
 	<programme channel="咪咕综合体育" start="20240410062600 +0800" stop="20240410092900 +0800">
 		<title lang="zh">2024第十二届中式台球国际大师赛全球总决赛Day3回放：杰弗里b7德鲁纳8-7伊马德b7拉赫西尼</title>
+	</programme>
+	<programme channel="咪咕综合体育" start="20240410092900 +0800" stop="20240410114900 +0800">
+		<title lang="zh">23/24赛季CBA常规赛第52轮全场回放：上海vs浙江（李天宇、陈正昊）（50帧原画）</title>
 	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
@@ -91509,6 +91515,9 @@
 	<programme channel="纯享4K" start="20240410090600 +0800" stop="20240410094400 +0800">
 		<title lang="zh">探索b7发现4K 江口明末战场考古大揭秘（3）</title>
 	</programme>
+	<programme channel="纯享4K" start="20240410094400 +0800" stop="20240410102300 +0800">
+		<title lang="zh">探索b7发现4K 江口明末战场考古大揭秘（4）</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -113865,6 +113874,12 @@
 	<programme channel="黑莓动画" start="20240410091400 +0800" stop="20240410092500 +0800">
 		<title lang="zh">07_小马宝莉之魔力新世界</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240410092500 +0800" stop="20240410093600 +0800">
+		<title lang="zh">08_小马宝莉之魔力新世界</title>
+	</programme>
+	<programme channel="黑莓动画" start="20240410093600 +0800" stop="20240410094700 +0800">
+		<title lang="zh">09_小马宝莉之魔力新世界</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -115581,6 +115596,9 @@
 	<programme channel="newtv精品大剧" start="20240410083700 +0800" stop="20240410092200 +0800">
 		<title lang="zh">17_独爱一生</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20240410092200 +0800" stop="20240410100900 +0800">
+		<title lang="zh">18_独爱一生</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -115625,6 +115643,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20240410090900 +0800" stop="20240410094500 +0800">
 		<title lang="zh">第1集：开勇</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20240410094500 +0800" stop="20240410102300 +0800">
+		<title lang="zh">第2集：琳宝</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -115707,6 +115728,9 @@
 	<programme channel="newtv军旅剧场" start="20240410083600 +0800" stop="20240410092200 +0800">
 		<title lang="zh">25_大汉口</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20240410092200 +0800" stop="20240410100800 +0800">
+		<title lang="zh">26_大汉口</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -115746,6 +115770,9 @@
 	<programme channel="newtv家庭剧场" start="20240410084400 +0800" stop="20240410093000 +0800">
 		<title lang="zh">37_梦中的那片海</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20240410093000 +0800" stop="20240410101500 +0800">
+		<title lang="zh">38_梦中的那片海</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -115781,6 +115808,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20240410083100 +0800" stop="20240410091700 +0800">
 		<title lang="zh">47_女医明妃传</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20240410091700 +0800" stop="20240410100300 +0800">
+		<title lang="zh">48_女医明妃传</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -115833,6 +115863,9 @@
 	<programme channel="newtv动作电影" start="20240410081900 +0800" stop="20240410092900 +0800">
 		<title lang="zh">屠魔战神</title>
 	</programme>
+	<programme channel="newtv动作电影" start="20240410092900 +0800" stop="20240410110100 +0800">
+		<title lang="zh">举起手来2：追击阿多丸号</title>
+	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
 	</channel>
@@ -115878,6 +115911,9 @@
 	<programme channel="newtv怡伴健康" start="20240410085400 +0800" stop="20240410094000 +0800">
 		<title lang="zh">25_生死瞬间</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20240410094000 +0800" stop="20240410102100 +0800">
+		<title lang="zh">生活圈</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -115913,6 +115949,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20240410090000 +0800" stop="20240410094600 +0800">
 		<title lang="zh">73_那年花开月正圆</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20240410094600 +0800" stop="20240410103100 +0800">
+		<title lang="zh">74_那年花开月正圆</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -116021,6 +116060,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20240410084800 +0800" stop="20240410093700 +0800">
 		<title lang="zh">生活服务</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20240410093700 +0800" stop="20240410105400 +0800">
+		<title lang="zh">男嘉宾以歌传情 向女嘉宾大胆示爱（20240402）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
